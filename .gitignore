@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+Saved/ 
+Intermediate/
+/Saved
